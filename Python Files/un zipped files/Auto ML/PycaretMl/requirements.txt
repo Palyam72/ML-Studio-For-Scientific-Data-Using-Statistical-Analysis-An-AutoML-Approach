@@ -1,0 +1,5 @@
+--extra-index-url https://pypi.org/simple
+pycaret
+streamlit
+streamlit-option-menu
+chardet
