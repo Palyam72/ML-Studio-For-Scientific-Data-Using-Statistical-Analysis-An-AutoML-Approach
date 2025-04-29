@@ -1,0 +1,8 @@
+streamlit
+pandas
+matplotlib
+seaborn
+streamlit-option-menu
+numpy
+klib
+chardet
